@@ -1,8 +1,4 @@
 # careercompass
-<<<<<<< HEAD
-A student career guidance platform that calculates CGPA, predicts suitable career paths, recommends skills to learn, provides interview preparation resources, and tracks placement readiness.
-=======
->>>>>>> 53ea79f6ea6128821726c0c5047b10e44fdece1a
 A student career guidance platform that calculates CGPA, predicts suitable career paths, recommends skills to learn, provides interview preparation resources, and tracks placement readiness
 
 ## Overview
